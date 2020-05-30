@@ -1,0 +1,22 @@
+a{
+    color: olivedrab;
+}
+a:link{
+    color:palevioletred;
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 10px;
+    text-align: center;
+    margin: 10px;
+    text-decoration: underline;
+}
+a:hover{
+    color:navy;
+    background-color: lightblue;
+    font-size: large;
+    text-decoration: underline;
+    text-align: center;
+}
+a:active{
+    color:peru;
+}
