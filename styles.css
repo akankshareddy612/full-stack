@@ -1,0 +1,41 @@
+.a1{
+     color: aquamarine;
+}
+.a2{
+     color: blueviolet;
+}
+.a3{
+     color: coral;
+}
+.b1{
+    width: 70%;
+    height: 100%;
+    background-image: url('back1.jpg');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.b2{
+    width: 70;
+    height: 100%;
+    background-image: url('back2.jpg');
+}
+.b3{
+    width: 70;
+    height: 100%;
+    background-image: url('back3.jpg');
+}
+.c1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-weight: bolders;
+}
+c2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: inherit;
+font-size: 20px;
+
+font-variant: unset;
+font-weight: bold;
+}
